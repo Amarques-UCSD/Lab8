@@ -11,7 +11,7 @@
    - Yes, this is a simple functionality test that that only involves one feature.
 
 4. What do you expect to happen if we run our puppeteer tests with the field “headless” set to true?
-   - The browser will pop up.
+   - The browser page will not pop up.
 
 5. What would your beforeAll callback look like if you wanted to start from the settings page before every test case?
 

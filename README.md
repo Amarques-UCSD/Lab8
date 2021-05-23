@@ -1,5 +1,9 @@
 # Lab8_Starter
 
+## Partners
+   - Alexandre Marques
+   - Austin Choy
+
 ## Check your understanding q's (FILL OUT)
 1. In your own words: Where would you fit your automated tests in your Bujo project development pipeline? (just write the letter)
    - Within a Github action that runs whenever code is pushed.

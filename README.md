@@ -14,4 +14,7 @@
    - The browser page will not pop up.
 
 5. What would your beforeAll callback look like if you wanted to start from the settings page before every test case?
-
+   - `var set = await page.$$('img');
+    await set[0].click();
+    page.waitForNavigation()
+    await page.waitForTimeout(500);`
